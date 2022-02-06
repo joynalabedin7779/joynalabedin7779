@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to Jooynal Abedin's profile
 #### A passionate UX/UI Developer 
-![A passionate UX/UI Developer ](./images/naemazambanner.jpg)
+![A passionate UX/UI Developer ](./ui-ux.jpg)
 
 Talented UX Designer With 2+ Years Of Experience, Seeking To Elevate UX At Net2life, Inc. As Sub-Lead UX Designer At Net2life, Received 95% Client Satisfaction Scores. Completed Projects 10% Before Goals With 25% Higher UX Scores Than Average. Honorable Mention, 2019 UX Award.
 
